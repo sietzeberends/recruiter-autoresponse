@@ -22,7 +22,7 @@ I look forward to hearing from you.
 
 Sietze
 
-PS: this is an automatic response. If your message already contains above content or serves a completely different purpose, please expect a reply. Getting to know recruiters isn't a completely different purpose. 
+PS: this is an automatic response. If your message already contains above content or serves a completely different purpose, please expect a reply. 
 ```
 
 ## the autoresponse (Dutch)
@@ -41,5 +41,5 @@ Ik hoor graag van je.
 Groet,
 
 Sietze
-PS: Dit is een geautomatiseerd antwoord. Als je bericht bovenstaande informatie al bevat of een totaal ander doel heeft kan je een berichtje terug verwachten. Kennismaken met recruiters is geen compleet ander doel. 
+PS: Dit is een geautomatiseerd antwoord. Als je bericht bovenstaande informatie al bevat of een totaal ander doel heeft kan je een berichtje terug verwachten. 
 ```
